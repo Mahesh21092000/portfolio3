@@ -9,6 +9,7 @@ import Projects from '../components/Projects';
 import Timeline from '../components/Timeline';
 import Testimonial from '../components/Testimonial';
 import Contact from '../components/Contact';
+
 function Home() {
     const params = useParams();
     const navigate = useNavigate();
